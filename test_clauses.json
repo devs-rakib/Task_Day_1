@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "clause": "Vendor shall be liable for all direct, indirect, incidental, and consequential damages without any monetary cap.",
+    "risk_category": "High Risk"
+  },
+  {
+    "id": 2,
+    "clause": "Either party may terminate this agreement by providing at least 30 days prior written notice.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 3,
+    "clause": "The Company reserves the right to modify service fees at its sole discretion upon 5 business days notice via email.",
+    "risk_category": "Medium Risk"
+  },
+  {
+    "id": 4,
+    "clause": "Client indemnifies and holds harmless Vendor from any third-party IP claims arising from deliverables created entirely by Vendor.",
+    "risk_category": "High Risk"
+  },
+  {
+    "id": 5,
+    "clause": "All invoices are payable within 45 days of receipt. Late payments will incur an interest charge of 1.5% per month.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 6,
+    "clause": "Vendor shall have unlimited liability for any losses, damages, or claims arising out of its performance under this agreement.",
+    "risk_category": "High Risk"
+  },
+  {
+    "id": 7,
+    "clause": "The customer may terminate the agreement immediately upon written notice if the vendor materially breaches its obligations.",
+    "risk_category": "High Risk"
+  },
+  {
+    "id": 8,
+    "clause": "The supplier shall indemnify the customer against all claims, losses, and expenses arising from the supplier's acts or omissions.",
+    "risk_category": "High Risk"
+  },
+  {
+    "id": 9,
+    "clause": "Payment terms may be adjusted by the Company from time to time based on business requirements.",
+    "risk_category": "Medium Risk"
+  },
+  {
+    "id": 10,
+    "clause": "The agreement may be terminated upon notice provided within a reasonable period determined by the requesting party.",
+    "risk_category": "Medium Risk"
+  },
+  {
+    "id": 11,
+    "clause": "Either party may terminate this agreement upon 60 days prior written notice.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 12,
+    "clause": "Invoices shall be paid within 30 days from the date of receipt by the customer.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 13,
+    "clause": "Both parties shall maintain commercially reasonable confidentiality obligations during the term of this agreement.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 14,
+    "clause": "Either party may terminate this agreement for convenience by giving 30 days written notice to the other party.",
+    "risk_category": "Standard / Low Risk"
+  },
+  {
+    "id": 15,
+    "clause": "The Company may change the applicable service charges at any time and without obtaining prior approval from the Vendor.",
+    "risk_category": "Medium Risk"
+  }
+]
